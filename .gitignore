@@ -1,0 +1,5 @@
+# Pythen venv
+.venv/
+
+# Tickets
+*.jpg
